@@ -1,0 +1,20 @@
+{
+  "name": "choo-parcel-starter",
+  "version": "0.1.0",
+  "description": "Starter template for a choo app using Parcel",
+  "main": "index.html",
+  "repository": "git@github.com:ckipp01/choo-parcel-starter.git",
+  "author": "ckipp01 <ckipp@pm.me>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "choo": "^7.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
