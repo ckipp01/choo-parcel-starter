@@ -1,11 +1,8 @@
-'use strict'
-
 import html from 'choo/html'
 
 import header from '../partials/header'
 
-export default () => {
-  return html`
+export default () => html`
     <div id="container">
       ${header()}
       <main>
@@ -22,4 +19,3 @@ export default () => {
       </main>
     </div>
   `
-}

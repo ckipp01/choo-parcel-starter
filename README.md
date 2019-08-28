@@ -1,6 +1,6 @@
 # choo-parcel-starter
 
-I've recently started multiple new projects that are using both [choo](https://choo.io/) and [parcel](https://parceljs.org/). I started using choo because I didn't want the overhead of a large JS framework, and I honestly didn't need everything that comes with them. I just wanted a bit of templating and routing help. Choo was perfect for me in that regards. Parcel seemed like a logical choice to pair with it because of the no-configuration approach that could be used both as a dev-server and as a bundler.
+I've recently started multiple new projects that are using both [choo](https://choo.io/) and [parcel](https://parceljs.org/). I started using choo because I didn't want the overhead of a large JS framework, and I honestly didn't need everything that comes with them. I just wanted a bit of templating and routing help. Choo was perfect for me in that regards. Parcel seemed like a logical choice to pair with it because of the no-configuration approach that could be used both as a dev-server and as a bundler providing the necessary transforms I was looking for.
 
 ## Getting started
 

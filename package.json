@@ -8,13 +8,16 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "parcel index.html",
+    "dev": "parcel index.html --open",
     "build": "parcel build index.html"
   },
   "dependencies": {
     "choo": "^7.0.0"
   },
   "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "parcel-bundler": "^1.12.3"
   }
 }
